@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034801165815",
+    "project_id": "campustasktracker-ae2f5",
+    "storage_bucket": "campustasktracker-ae2f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034801165815:android:ee9434efd909ab1a6aaaf2",
+        "android_client_info": {
+          "package_name": "com.example.campustasktracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA192guNb6HtV269UTPXtKKxlRrCo4dBm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
